@@ -48,6 +48,6 @@ Coming soon — benchmark tables for:
 - [Blog 1: 「LLM推論をMacで始める方法」 (予定)](link)
 - [Blog 2: 「日本語LLMの量子化比較：QLoRA vs GPTQ」 (予定)](link)
 
-## 📄 License
+## License
 
 MIT. See `LICENSE.md`.
